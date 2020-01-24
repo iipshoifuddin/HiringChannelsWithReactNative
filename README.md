@@ -23,15 +23,15 @@
 <b>Hiring Channels</b> Hiring Channels is an application created for the purpose of facilitating job seekers and employers, where job seekers and employers only register in this application and find their respective matches, without having to meet in an event and this aplication build with react native
 
 ## Requirements
-
+- [`nodeJS`](https://nodejs.org/en/download/)
 - [`npm`](https://www.npmjs.com/get-npm)
 - [`react-native-cli`](https://facebook.github.io/react-native/docs/getting-started)
-- [`Backend TaniBox`](https://github.com/reihnagm/TaniBox-Backend)
+- [`Backend HiringChannels`](https://github.com/iipshoifuddin/hiringChannelAppRestfull)
 
 ## Usage for development
 
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/iipshoifuddin/TaniBox-ReactNative`
+2. Type `git clone https://github.com/iipshoifuddin/HiringChannelsWithReactNative`
 3. Open the folder and type `npm install` for install dependencies
 4. Create Environment Variable [here](#create-environment-variable)
 5. Before run this, you must run backend first
@@ -48,7 +48,6 @@ $ nano .env
 # Set API KEY
 API_ENDPOINT=Your endpoint API
 BASE_URL=Your Base URL
-ONESIGNAL_API_KEY=Your Onesignal API Key
 ```
 
 ## Screenshots
@@ -73,6 +72,6 @@ ONESIGNAL_API_KEY=Your Onesignal API Key
 
 ## Related Project (Backend)
 
-- [`Backend TaniBox`](https://github.com/reihnagm/TaniBox-Backend)
+- [`Backend HiringChannels`](https://github.com/iipshoifuddin/hiringChannelAppRestfull)
 
 
