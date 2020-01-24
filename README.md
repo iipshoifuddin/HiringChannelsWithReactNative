@@ -53,7 +53,7 @@ BASE_URL=Your Base URL
 ## Screenshots
 
 <div align="center">
-    <img width="250" src="./ScreenShot/mockup.png">
+    <img height="250" src="./ScreenShot/mockup.png">
 </div>
 
 ## Release APK
