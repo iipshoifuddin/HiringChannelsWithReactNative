@@ -1,6 +1,6 @@
 <h1 align="center">Hiring Channels</h1>
 <p align="center">
-  <img width="250" src="./src/public/images/logo.png"/>
+  <img width="250" src="./ScreenShot/logo.png"/>
   <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
 </p>
 <p align="center">
