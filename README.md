@@ -53,15 +53,7 @@ BASE_URL=Your Base URL
 ## Screenshots
 
 <div align="center">
-    <img width="250" src="./src/public/screenshots/00.splashscreen.jpg">
-    <img width="250" src="./src/public/screenshots/01.login.jpg">
-    <img width="250" src="./src/public/screenshots/02.register.jpg">
-    <img width="250" src="./src/public/screenshots/03.resetPassword.jpg">
-    <img width="250" src="./src/public/screenshots/05.notification.jpg">
-    <img width="250" src="./src/public/screenshots/06.product.jpg">
-    <img width="250" src="./src/public/screenshots/07.addProduct.jpg">
-    <img width="250" src="./src/public/screenshots/08.editStore.jpg">
-    <img width="250" src="./src/public/screenshots/profileSeller.jpg">
+    <img width="250" src="./ScreenShot/mockup.png">
 </div>
 
 ## Release APK
