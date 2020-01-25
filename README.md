@@ -16,7 +16,6 @@
 - [Screenshots](#screenshots)
 - [Release APK](#release-apk)
 - [Related Project](#related-project-backend)
-- [Contributors](#contributors)
 
 ## Introduction
 
