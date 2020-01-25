@@ -52,6 +52,8 @@ $ copy .env.example .env
 and open .env file with text editor
 
 # Set API KEY
+
+```
 API_ENDPOINT=Your endpoint API
 BASE_URL=Your Base URL
 ```
