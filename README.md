@@ -19,7 +19,7 @@
 
 ## Introduction
 
-<b>Hiring Channels</b> Hiring Channels is an application created for the purpose of facilitating job seekers and employers, where job seekers and employers only register in this application and find their respective matches, without having to meet in an event and this aplication build with react native
+<b>Hiring Channels</b> is an application created for the purpose of facilitating job seekers and employers, where job seekers and employers only register in this application and find their respective matches, without having to meet in an event and this aplication build with react native
 
 ## Requirements
 - [`nodeJS`](https://nodejs.org/en/download/)
