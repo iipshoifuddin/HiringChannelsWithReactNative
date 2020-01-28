@@ -53,8 +53,7 @@ and open .env file with text editor
 # Set API KEY
 
 ```
-API_ENDPOINT=Your endpoint API
-BASE_URL=Your Base URL
+API_URL = http://localhost:3000/api/v1/ or (ex. http://YOUR_SERVER:3000/api/v1)
 ```
 
 ## Screenshots
