@@ -40,7 +40,7 @@
 
 For Linux :
 ```
-$ cp .env.example .env
+$ cp .example.env .env
 $ nano .env
 ```
 
